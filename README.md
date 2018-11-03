@@ -1,2 +1,2 @@
 # dotfiles
-'git clone $url && cd dotfiles && ./install'
+`git clone $url && cd dotfiles && ./install`
