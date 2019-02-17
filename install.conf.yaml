@@ -1,4 +1,4 @@
 - link:
     ~/.gitconfig: gitconfig
     ~/.tmux.conf: tmux.conf
-      ~/.vimrc: vimrc
+    ~/.vimrc: vimrc
